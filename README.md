@@ -1,1 +1,1 @@
-# -ok-De-i-kenli-statistiksel-Analiz
+# Cok Degiskenli Istatistiksel Analiz 
