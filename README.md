@@ -1,6 +1,6 @@
 # Multivariate Statistical Analysis
 
-# Yapılacak analizler 
+# Yapılan analizler 
 
 - Manova ile iki grubu ayıran değişkenlerin tespit edilmesi.
 - Faktör analizi ile değişkenler arasındaki ilişkilerin incelenmesi ve verinin üzerindeki gruplamaya benzer bir faktörleşme olup olmadığının incelenmesi.
