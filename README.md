@@ -1,4 +1,4 @@
-# Cok Degiskenli Istatistiksel Analiz 
+# Multivariate Statistical Analysis
 
 # Yapılacak analizler 
 
